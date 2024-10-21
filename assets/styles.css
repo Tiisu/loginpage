@@ -39,6 +39,7 @@ h1 {
     height: 100%;
     width: 100%;
     object-fit: cover;
+    
 }
 
 .main_content {
@@ -96,6 +97,7 @@ input::placeholder {
 @media screen and (max-width: 480px) { 
     body {
         padding: 20px;
+        overflow: hidden;
     }
 }
 
