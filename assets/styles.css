@@ -94,8 +94,8 @@ input::placeholder {
 }
 
 @media screen and (max-width: 480px) { 
-    .hero_section {
-        margin: 20px;
+    body {
+        padding: 20px;
     }
 }
 
