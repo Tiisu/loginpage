@@ -93,9 +93,9 @@ input::placeholder {
     color: #0d6a81;
 }
 
-@media only screen and (max-width: 480px) { 
+@media screen and (max-width: 480px) { 
     .hero_section {
-        padding: 20px;
+        margin: 20px;
     }
 }
 
