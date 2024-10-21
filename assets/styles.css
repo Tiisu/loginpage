@@ -93,6 +93,12 @@ input::placeholder {
     color: #0d6a81;
 }
 
+@media screen and (max-width: 300px) { 
+    .hero_section {
+        padding: 20px;
+    }
+}
+
 .input_username, .input_password {
     margin-bottom: 20px;
 }
