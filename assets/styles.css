@@ -35,10 +35,10 @@ h1 {
 
 .hero_section  .background {
     z-index: -1;
+    position: absolute;
     height: 100%;
     width: 100%;
     object-fit: cover;
-    
 }
 
 .main_content {
@@ -92,13 +92,15 @@ input::placeholder {
     background-color: #fff;
     color: #0d6a81;
 }
+
 .input_username, .input_password {
     margin-bottom: 20px;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .hero_section {
-    padding: 20px; 
+    background-color: olive;
   }
 }
+
 
