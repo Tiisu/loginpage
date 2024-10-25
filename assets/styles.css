@@ -97,7 +97,7 @@ input::placeholder {
 }
 
 @media (max-width: 768px) {
-  body {
+  .hero_section {
     padding: 20px; 
   }
 }
