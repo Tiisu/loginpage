@@ -95,5 +95,9 @@ input::placeholder {
 .input_username, .input_password {
     margin-bottom: 20px;
 }
-
+@media screen and (max-width: 600px) {
+  .hero_section {
+    margin: 10px;
+  }
+}
 
