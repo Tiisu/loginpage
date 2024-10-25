@@ -99,7 +99,7 @@ input::placeholder {
 
 @media screen and (max-width: 600px) {
   .hero_section {
-    background-color: olive;
+    padding: 10px;
   }
 }
 
