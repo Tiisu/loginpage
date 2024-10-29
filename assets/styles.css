@@ -98,10 +98,10 @@ input::placeholder {
     margin-bottom: 20px;
 }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
   .hero_section {
     padding: 10px;
   }
 }
-
+*/
 
